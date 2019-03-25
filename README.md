@@ -6,6 +6,15 @@
 
 标注结构是自己设计的，我看了很多关系抽取的论文，没有发现类似的做法。所以，如果你基于此模型做出后的修改，最终获奖了或者发表paper什么的，烦请注明一下（其实也不是太奢望）
 
+```@misc{jianlin2019bdkg,
+  title={Hybrid Structure of Pointer and Ragging for Relation Extraction: A Baseline},
+  author={Jianlin Su},
+  year={2019},
+  publisher={GitHub},
+  howpublished={\url{https://github.com/bojone/kg-2019-baseline}},
+}
+```
+
 ## 用法
 `python trans.py`转换数据，`python kg.py`直接跑。
 
@@ -23,6 +32,5 @@ Python 2.7 + Keras 2.2.4 + Tensorflow 1.8，其中关系最大的应该是Python
 欢迎跟我交流讨论，但请尽量交流一些有意义的问题，而不是debug。（如果Keras不熟悉，请先自学一个星期Keras。）
 
 ## 链接
-
 - https://kexue.fm
 - https://keras.io
