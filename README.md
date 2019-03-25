@@ -6,7 +6,9 @@
 
 标注结构是自己设计的，我看了很多关系抽取的论文，没有发现类似的做法。所以，如果你基于此模型做出后的修改，最终获奖了或者发表paper什么的，烦请注明一下（其实也不是太奢望）
 
-```@misc{jianlin2019bdkg,
+```
+@misc{
+  jianlin2019bdkg,
   title={Hybrid Structure of Pointer and Ragging for Relation Extraction: A Baseline},
   author={Jianlin Su},
   year={2019},
