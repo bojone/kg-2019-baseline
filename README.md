@@ -19,6 +19,5 @@ Python 2.7 + Keras 2.2.4 + Tensorflow 1.8，其中关系最大的应该是Python
 
 ## 链接
 
-https://kexue.fm
-
-https://keras.io
+- https://kexue.fm
+- https://keras.io
