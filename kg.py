@@ -1,4 +1,5 @@
 #! -*- coding:utf-8 -*-
+# 2019年百度的三元组抽取比赛（ http://lic2019.ccf.org.cn/kg ），一个baseline
 
 import json
 import numpy as np
