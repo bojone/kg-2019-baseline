@@ -195,8 +195,8 @@ def extract_items(text_in):
                     _subject = text_in[i: i+j+1]
                     break
             if _subject:
-                _k1, _k2 = np.array([i]), np.array([i+j])
-                _o1, _o2 = object_model.predict([_s, _k1, _k2])
+                _kk1, _kk2 = np.array([i]), np.array([i+j])
+                _o1, _o2 = object_model.predict([_s, _kk1, _kk2])
                 _o1, _o2 = np.argmax(_o1[0], 1), np.argmax(_o2[0], 1)
                 for i,_oo1 in enumerate(_o1):
                     if _oo1 > 0:
