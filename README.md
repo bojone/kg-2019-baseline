@@ -9,7 +9,7 @@
 ```
 @misc{
   jianlin2019bdkg,
-  title={Hybrid Structure of Pointer and Ragging for Relation Extraction: A Baseline},
+  title={Hybrid Structure of Pointer and Tagging for Relation Extraction: A Baseline},
   author={Jianlin Su},
   year={2019},
   publisher={GitHub},
